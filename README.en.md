@@ -8,6 +8,8 @@
 
 <p align="center"><strong>Software Engineering & Systems Analysis and Development Student</strong><br />Technical education in IT at SENAC · São Paulo, Brazil</p>
 
+<p align="center"><img src="https://raw.githubusercontent.com/Dudulonabr/Dudulonabr/main/assets/cyber/contribution-snake.svg" alt="Snake animation across my GitHub contributions, in cyan and purple" width="100%" /></p>
+
 ## From hardware to software
 
 I'm **Eduardo Moreira Monteiro Lona**. My journey in technology started with **computer hardware, networking, PC assembly and maintenance, and IT support**. Today, I bring that hands-on foundation into software projects and web interfaces.

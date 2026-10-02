@@ -8,6 +8,8 @@
 
 <p align="center"><strong>Estudante de Engenharia de Software e Análise e Desenvolvimento de Sistemas</strong><br />Técnico em Informática pelo SENAC · São Paulo, Brasil</p>
 
+<p align="center"><img src="https://raw.githubusercontent.com/Dudulonabr/Dudulonabr/main/assets/cyber/contribution-snake.svg" alt="Animação da cobrinha percorrendo minhas contribuições no GitHub, em ciano e roxo" width="100%" /></p>
+
 ## Da bancada ao código
 
 Sou **Eduardo Moreira Monteiro Lona**. Minha trajetória em tecnologia começou com **hardware, redes, montagem e manutenção de computadores e suporte de TI**. Hoje, transformo essa base prática em projetos de software e interfaces web.
